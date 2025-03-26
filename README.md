@@ -59,6 +59,6 @@ Bar and Pie Charts for visualization
 
 Data Analysis Toolpak for trend identification
 
-on a noshare
+On a noshare
 This analysis provides valuable insights into the factors contributing to depression among students. It highlights the importance of addressing academic stress, financial challenges, and unhealthy lifestyles to improve student mental health. The findings can help institutions implement better support systems and mental health programs.
 
